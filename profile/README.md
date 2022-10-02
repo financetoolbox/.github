@@ -1,4 +1,4 @@
-# Finance Toolbox (FTBX) - Extensible Python Utilities
+# Finance Toolbox (FTBX) - Extensible Python Utilities for Finance
 
 
 ## Installation
